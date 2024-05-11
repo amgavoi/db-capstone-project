@@ -6,4 +6,4 @@ SELECT "New booking added" AS "Confirmation";
 END //
 DELIMITER ;
 
-CALL AddBooking(5, "2022-12-30", 1, 4);
+CALL AddBooking(7, "2022-12-30", 1, 4);
